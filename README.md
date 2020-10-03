@@ -26,12 +26,10 @@ pip3
 for Linux
 ```
 python3 Ranjeet.py
-
 ```
 for Windows
 ```
 python Ranjeet.py
-
 ```
 ```
 A screen will be displayed. Use Green cap/bottom pen and without opening the pen draw shapes in the displayed screen and pattern will be printed in the screen.
